@@ -13,7 +13,5 @@ This application fetches a new random quote from an API, upon the click of a but
 <img src="project_images/image_1.png" width="500">
 <img src="project_images/quoteGeneratorGIF.gif" width="500">
 </p>
-I would ❤ to connect with you at  <a href="https://twitter.com/nehasoni__">Twitter</a> | <a href="https://www.linkedin.com/in/neha-soni-70a6231b1/">LinkedIn</a>
-
 
  ### Show some ❤️ by starring some of the repositories!
